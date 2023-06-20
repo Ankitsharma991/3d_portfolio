@@ -1,10 +1,9 @@
-import "./App.css";
 
 function App() {
   return (
-    <>
+    <div>
       <h1>3D Portfolio</h1>
-    </>
+    </div>
   );
 }
 
